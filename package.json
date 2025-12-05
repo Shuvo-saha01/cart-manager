@@ -1,0 +1,24 @@
+{
+  "name": "cart-manager",
+  "version": "1.0.0",
+  "description": "a simple package to maintain e-commerce cart through localstorage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shuvo-saha01/cart-manager.git"
+  },
+  "keywords": [
+    "e-commerce",
+    "cart",
+    "cartManager"
+  ],
+  "author": "Shuvo Saha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shuvo-saha01/cart-manager/issues"
+  },
+  "homepage": "https://github.com/Shuvo-saha01/cart-manager#readme"
+}
