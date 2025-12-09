@@ -18,7 +18,7 @@ A lightweight ES module for managing shopping cart operations using localStorage
 Include the module in your HTML file:
 
 ```html
-<script type="module">
+
   import {
     addToCart,
     removeFromCart,
@@ -27,7 +27,7 @@ Include the module in your HTML file:
     getPrice,
     clearCart
   } from "./cart-utils.js";
-</script>
+
 ```
 
 ## API Reference
